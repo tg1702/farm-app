@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197191456387",
+    "project_id": "debug-farm-project",
+    "storage_bucket": "debug-farm-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197191456387:android:6fff8927d3403a9a5f6db6",
+        "android_client_info": {
+          "package_name": "com.example.debug_app_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197191456387-9sb5bajp5hielrcul6lk7sp1kjod4nan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VG1021AoKdUoJJIoLVHiTh2AlECrPuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197191456387-9sb5bajp5hielrcul6lk7sp1kjod4nan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
